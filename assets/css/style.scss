@@ -25,6 +25,11 @@ li a::after {
 }
 
 li img {
+    display: block;
     width: 5px;
     height: auto;
+}
+
+li img::after {
+    display: inline-block;
 }
