@@ -1,7 +1,7 @@
 Welcome to my very first portfolio. My name is Thomas and I can't wait to help you build our projects!
 
 ## Projects
-- [Os-checker](https://github.com/lordlflm/os-checker)
+- [Os-checker](https://github.com/lordlflm/os-checker) CLI for comparing a program's output to an expected output text file ![](assets/img/cli.png) CLI
 - [ChadGPT-discordbot](https://github.com/lordlflm/ChadGPT-discordbot)
 - [inf3190-tp3-2023](https://github.com/lordlflm/inf3190-tp3-2023)
 - [Opgg-Clone-App](https://github.com/lordlflm/Opgg-Clone-App) (Remake incoming)
