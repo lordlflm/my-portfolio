@@ -13,3 +13,12 @@ li {
   padding: 5;
   margin: 5;
 }
+
+li a {
+    display: block;
+}
+
+li a::after {
+    content: "";
+    display: block;
+}
