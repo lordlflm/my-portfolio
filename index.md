@@ -4,7 +4,7 @@ Welcome to my very first portfolio. My name is Thomas and I can't wait to help y
 - [Os-checker](https://github.com/lordlflm/os-checker)
 - [ChadGPT-discordbot](https://github.com/lordlflm/ChadGPT-discordbot)
 ## Tech Skills
-- git
+<div class=tech-skills-content>git</div>
 - python
 - C/C++
 - Java
