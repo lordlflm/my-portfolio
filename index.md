@@ -5,9 +5,6 @@ Welcome to my very first portfolio. My name is Thomas and I can't wait to help y
 - [ChadGPT-discordbot](https://github.com/lordlflm/ChadGPT-discordbot)
 - [inf3190-tp3-2023](https://github.com/lordlflm/inf3190-tp3-2023)
 - [Opgg-Clone-App](https://github.com/lordlflm/Opgg-Clone-App) (Remake incoming)
-[//]: # "Add SLD/OpenGL prject"
-[//]: # "Add apple music/spotify collaboration app"
-[//]: # "Add minecraft mod"
 
 More to come!
 
