@@ -6,6 +6,10 @@ li::marker {
     content: '';
 }
 
+ul {
+    padding: 0px
+}
+
 li {
     border-style: solid;
     border-width: 1px;
@@ -16,6 +20,8 @@ li {
 }
 
 li a {
+    text-transform: uppercase;
+    font-family: 'Courier New', monospace;
     display: block;
 }
 
