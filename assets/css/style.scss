@@ -16,6 +16,7 @@ ul {
 
 .project-logos-div {
     display: inline;
+    size: auto;
 }
 
 li {
@@ -34,8 +35,12 @@ li a {
     font-family: 'Courier New', monospace;
 }
 
+li p {
+    margin: 0px;
+}
+
 li img {
     padding-top: 5px;
-    width: 25px;
+    width: 30px;
     height: auto;
 }
