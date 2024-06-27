@@ -33,22 +33,8 @@
     margin-bottom: 0px;
 }
 
-.project-div a {
-    color: inherit;
+.project-div a:hover p:not(.project-title-p) {
     text-decoration: none;
-}
-
-.project-div a:hover .project-title-p {
-    text-decoration: underline;
-}
-
-.project-div a p {
-    color: inherit;
-    transition: none;
-}
-
-.project-div a p:hover {
-    font-size: inherit;
 }
 
 /*.project-div a {
