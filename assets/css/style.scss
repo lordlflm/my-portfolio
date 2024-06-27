@@ -2,29 +2,18 @@
 ---
 
 @import "{{ site.theme }}";
-li::marker {
-    content: '';
-}
-
-ul {
-    padding: 0px
-}
-
-/*.project-li {
-    display: block;
-}*/
 
 .project-logos-div {
-    display: inline-flex;
-    align-items: center;
+    display: block;
     flex-wrap: wrap;
 }
 
-.project-logos-div p {
-    padding: 0px 20px 0px 5px;
+.project-logo-div {
+    display: inline-flex;
+    align-items: center;
 }
 
-li {
+.project-a {
     border-style: solid;
     border-width: 1px;
     border-color: rgba(0, 0, 0, 0.5);
@@ -33,20 +22,10 @@ li {
     border-radius: 5px;
 }
 
-li a {
+.project-title-p {
     display: block;
     text-transform: uppercase;
     font-size: 16px;
     font-weight: bold;
     font-family: 'Courier New', monospace;
-}
-
-li p {
-    margin: 0px;
-}
-
-li img {
-    padding-top: 5px;
-    width: 30px;
-    height: auto;
 }
