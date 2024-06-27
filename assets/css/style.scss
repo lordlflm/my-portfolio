@@ -6,12 +6,14 @@
 .project-logos-div {
     display: block;
     flex-wrap: wrap;
+    height: 30px;
+    margin-top: 5px;
 }
 
 .project-logo-div {
     display: inline-flex;
     align-items: center;
-    margin-right: 10px
+    margin-right: 10px;
 }
 
 .project-logo-div img {
@@ -33,16 +35,20 @@
     margin-bottom: 0px;
 }
 
-.project-div a p, .project-div a:hover p, .project-div a:visited p {
-    color: #727272;
-    text-decoration: none;
-    font-weight: normal;
-}
-
 .project-title-p {
     display: block;
     text-transform: uppercase;
     font-size: 16px;
     font-weight: bold;
     font-family: 'Courier New', monospace;
+}
+
+.project-title-p:hover {
+    text-decoration: underline;
+}
+
+.project-div a p, .project-div a:hover p, .project-div a:visited p {
+    color: #727272;
+    text-decoration: none;
+    font-weight: normal;
 }
