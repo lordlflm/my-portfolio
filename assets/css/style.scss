@@ -38,7 +38,7 @@
     text-decoration: none !important;
 }
 
-.project-div a:hover {
+.project-div a:hover, .project-div a:focus, .project-div a:active {
     color: #727272;
     text-decoration: none !important;
 }
