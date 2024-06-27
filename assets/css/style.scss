@@ -43,12 +43,12 @@
     font-family: 'Courier New', monospace;
 }
 
-a:hover .project-title-p {
-    text-decoration: underline;
-}
-
-.project-div a p, .project-div a:hover p, .project-div a:visited p {
+.project-div a:hover p, .project-div a:visited p {
     color: #727272;
     text-decoration: none;
     font-weight: normal;
+}
+
+a:hover .project-title-p {
+    text-decoration: underline;
 }
