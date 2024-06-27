@@ -33,6 +33,11 @@
 .project-div p {
     margin-bottom: 0px;
     text-decoration: none
+    color: #727272;
+}
+
+.project-div p::hover {
+    text-decoration: none
 }
 
 .project-title-p {
