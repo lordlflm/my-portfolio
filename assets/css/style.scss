@@ -29,9 +29,10 @@
     padding: 7px 15px 7px 15px;
     margin: 10px 0px 10px 0px;
     border-radius: 5px;
+    overflow: hidden;
 }
 
-.project-div a:hover {
+.project-div:hover {
     background-color: #E3F4FF;
 }
 
