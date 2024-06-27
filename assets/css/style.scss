@@ -33,14 +33,18 @@
     margin-bottom: 0px;
 }
 
-.project-div a {
+.project-div a:hover .project-title-p {
+    text-decoration: underline;
+}
+
+/*.project-div a {
     color: #727272;
 }
 
 .project-div a:hover {
     color: #727272;
     text-decoration: none;
-}
+}*/
 
 .project-title-p {
     display: block;
