@@ -6,16 +6,19 @@
 .project-logos-div {
     display: block;
     flex-wrap: wrap;
+    text-decoration: none;
 }
 
 .project-logo-div {
     display: inline-flex;
     align-items: center;
+    margin-right: 10px
 }
 
 .project-logo-div img {
     width: 30px;
     height: auto;
+    margin-right: 5px;
 }
 
 .project-div {
@@ -25,6 +28,11 @@
     padding: 5px;
     margin: 10px 0px 10px 0px;
     border-radius: 5px;
+}
+
+.project-div p {
+    margin-bottom: 0px;
+    text-decoration: none
 }
 
 .project-title-p {
