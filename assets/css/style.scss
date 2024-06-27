@@ -15,8 +15,8 @@
 }
 
 .project-logo-div img {
-    width: 30px;
-    height: auto;
+    height: 30px;
+    width: auto;
     margin-right: 5px;
 }
 
@@ -35,12 +35,12 @@
 
 .project-div a {
     color: #727272;
-    text-decoration: none;
+    text-decoration: none !important;
 }
 
 .project-div a:hover {
     color: #727272;
-    text-decoration: none;
+    text-decoration: none !important;
 }
 
 .project-title-p {
