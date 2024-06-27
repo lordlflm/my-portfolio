@@ -33,14 +33,9 @@
     margin-bottom: 0px;
 }
 
-.project-div a {
-    color: #727272;
-    text-decoration: none !important;
-}
-
 .project-div a p, .project-div a:hover p, .project-div a:visited p {
     color: #727272;
-    text-decoration: none;
+    text-decoration-thickness: initial;
 }
 
 .project-title-p {
