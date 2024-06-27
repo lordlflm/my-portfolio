@@ -26,7 +26,7 @@
     border-style: solid;
     border-width: 1px;
     border-color: rgba(0, 0, 0, 0.5);
-    padding: 5px;
+    padding: 15px;
     margin: 10px 0px 10px 0px;
     border-radius: 5px;
 }
@@ -43,7 +43,7 @@
     font-family: 'Courier New', monospace;
 }
 
-.project-div a:hover p, .project-div a:visited p {
+.project-div a:hover p:not(.project-title-p), .project-div a:visited p {
     color: #727272;
     text-decoration: none;
     font-weight: normal;
