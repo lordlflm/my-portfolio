@@ -11,9 +11,12 @@
 }
 
 .project-logo-div {
-    display: inline-flex;
+    /*display: inline-flex;
     align-items: center;
-    margin-right: 10px;
+    margin-right: 10px;*/
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
 }
 
 .project-logo-div img {
@@ -30,8 +33,6 @@
     margin: 10px 0px 10px 0px;
     border-radius: 5px;
     overflow: hidden;
-    width: auto;
-    height: auto;
 }
 
 .project-div:hover {
